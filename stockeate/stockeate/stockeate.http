@@ -1,0 +1,6 @@
+@stockeate_HostAddress = http://localhost:5091
+
+GET {{stockeate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
