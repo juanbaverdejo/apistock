@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\migrations\\20250226152008_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\migrations\\20250226152008_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\stockeate.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\stockeate.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Migrations\\20250226152008_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stockeate\\Migrations\\20250226152008_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "stockeate.http",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\stockeate.http",
               "RelativeDocumentMoniker": "stockeate\\stockeate.http",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "20250226152008_first.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Migrations\\20250226152008_first.cs",
               "RelativeDocumentMoniker": "stockeate\\Migrations\\20250226152008_first.cs",
@@ -68,20 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Program.cs",
               "RelativeDocumentMoniker": "stockeate\\Program.cs",
               "ToolTip": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Program.cs",
               "RelativeToolTip": "stockeate\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T13:02:47.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "stockeate\\Data\\AppDbContext.cs",
@@ -89,8 +89,7 @@
               "RelativeToolTip": "stockeate\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T13:01:24.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T13:01:24.116Z"
             },
             {
               "$type": "Document",
@@ -102,25 +101,24 @@
               "RelativeToolTip": "stockeate\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-26T12:59:58.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T12:59:58.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "stockeate\\Controllers\\ProductosController.cs",
               "ToolTip": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "stockeate\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T12:36:15.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "stockeate\\Models\\Producto.cs",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "stockeate\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:35:57.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T12:35:57.059Z"
             }
           ]
         }

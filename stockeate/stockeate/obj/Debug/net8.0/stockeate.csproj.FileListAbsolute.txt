@@ -166,3 +166,4 @@ C:\Users\diec6\Desktop\paginastock\stockeate\stockeate\obj\Debug\net8.0\refint\s
 C:\Users\diec6\Desktop\paginastock\stockeate\stockeate\obj\Debug\net8.0\stockeate.pdb
 C:\Users\diec6\Desktop\paginastock\stockeate\stockeate\obj\Debug\net8.0\stockeate.genruntimeconfig.cache
 C:\Users\diec6\Desktop\paginastock\stockeate\stockeate\obj\Debug\net8.0\ref\stockeate.dll
+C:\Users\diec6\Desktop\paginastock\stockeate\stockeate\obj\Debug\net8.0\stockeate.sourcelink.json

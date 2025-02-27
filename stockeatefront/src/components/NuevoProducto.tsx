@@ -22,7 +22,7 @@ export function NuevoProducto(){
         setProducto({...producto,[inputName] : inputValue})
     }
     const guardar = async() => {
-        const response = await fetch(`${appsettings.apiUrl}Producto/Nuevo`,{
+        const response = await fetch(`${appsettings.apiUrl}Producto/`,{
             method:'POST',
             headers:{
                 'Content-Type':'application/json'
