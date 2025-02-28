@@ -22,7 +22,7 @@ export function NuevoProducto(){
         setProducto({...producto,[inputName] : inputValue})
     }
     const guardar = async() => {
-        const response = await fetch(`${appsettings.apiUrl}Producto/`,{
+        const response = await fetch(`${appsettings.apiUrl}Productos/Crear`,{
             method:'POST',
             headers:{
                 'Content-Type':'application/json'
@@ -30,7 +30,13 @@ export function NuevoProducto(){
             body: JSON.stringify(producto)
         })
         if(response.ok){
-            navigate("/")
+
+            Swal.fire({
+                title: "¡Éxito!",
+                text: "Producto guardado correctamente",
+                icon: "success"
+            });
+            setProducto(initialProducto)
         }else{
             Swal.fire({
                 title:"Error!",
@@ -52,24 +58,20 @@ export function NuevoProducto(){
                 <hr></hr>
                 <Form>
                     <FormGroup className="mb-3">
-                        <Label>Nombre</Label>
+                        <Label>nombre</Label>
                         <Input type="text" name="nombre" onChange={inputChangeValue} value={producto.nombre}></Input>
                     </FormGroup>
                     <FormGroup>
-                        <Label>Correo</Label>
-                        <Input type="text" name="correo" onChange={inputChangeValue} value={producto.descripcion}></Input>
+                        <Label>descripcion</Label>
+                        <Input type="text" name="descripcion" onChange={inputChangeValue} value={producto.descripcion}></Input>
                     </FormGroup>
                     <FormGroup>
-                        <Label>Sueldo</Label>
-                        <Input type="text" name="sueldo" onChange={inputChangeValue} value={producto.precio}></Input>
+                        <Label>precio</Label>
+                        <Input type="text" name="precio" onChange={inputChangeValue} value={producto.precio}></Input>
                     </FormGroup>
                     <FormGroup>
-                        <Label>Sueldo</Label>
-                        <Input type="text" name="sueldo" onChange={inputChangeValue} value={producto.cantidad}></Input>
-                    </FormGroup>
-                    <FormGroup>
-                        <Label>Sueldo</Label>
-                        <Input type="text" name="sueldo" onChange={inputChangeValue} value={producto.precio}></Input>
+                        <Label>cantidad</Label>
+                        <Input type="text" name="cantidad" onChange={inputChangeValue} value={producto.cantidad}></Input>
                     </FormGroup>
                 </Form>
                 <Button color="primary" className="me-4" onClick={guardar}>Guardar</Button>

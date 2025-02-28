@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\migrations\\20250226152008_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\stockeate.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\stockeate.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|solutionrelative:stockeate\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{562333A6-949B-41C8-8CA4-D08F28606072}|stockeate\\stockeate.csproj|c:\\users\\diec6\\desktop\\paginastock\\stockeate\\stockeate\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "stockeate.http",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\stockeate.http",
               "RelativeDocumentMoniker": "stockeate\\stockeate.http",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "stockeate\\stockeate.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-26T15:27:18.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T15:27:18.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "20250226152008_first.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Migrations\\20250226152008_first.cs",
               "RelativeDocumentMoniker": "stockeate\\Migrations\\20250226152008_first.cs",
@@ -63,18 +62,17 @@
               "RelativeToolTip": "stockeate\\Migrations\\20250226152008_first.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T15:20:08.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T15:20:08.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Program.cs",
               "RelativeDocumentMoniker": "stockeate\\Program.cs",
               "ToolTip": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Program.cs",
               "RelativeToolTip": "stockeate\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T13:02:47.92Z",
               "EditorCaption": ""
@@ -105,28 +103,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "stockeate\\Controllers\\ProductosController.cs",
               "ToolTip": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "stockeate\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T12:36:15.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "stockeate\\Models\\Producto.cs",
               "ToolTip": "C:\\Users\\diec6\\Desktop\\paginastock\\stockeate\\stockeate\\Models\\Producto.cs",
               "RelativeToolTip": "stockeate\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:35:57.059Z"
+              "WhenOpened": "2025-02-26T12:35:57.059Z",
+              "EditorCaption": ""
             }
           ]
         }
